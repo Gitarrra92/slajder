@@ -13,6 +13,6 @@ function prevSlider() {
 
 function nextSlider() {
 counter++;
-images.style.backgroundImage = `url(img/bcg-${counter}.jpeg)`
+images.style.backgroundImage = `url(img/bcg-${counter}.jpg)`
 
 }
